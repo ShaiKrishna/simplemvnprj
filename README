@@ -1,0 +1,8 @@
+echo "# simplemvnprj" >> README.md
+git init
+git add README.md
+
+Already created a repository
+git commit -m "first commit"
+git remote add origin https://github.com/ShaiKrishna/simplemvnprj.git
+git push -u origin master
